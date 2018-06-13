@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/NoChess/DisplayImage.cpp
+stdio.h
+-
+opencv2/opencv.hpp
+-
+vector
+-
+opencv2/features2d/features2d.hpp
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/NoChess/opencv2/features2d/features2d.hpp
+opencv2/core/core.hpp
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/NoChess/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/NoChess/opencv2/highgui/highgui.hpp
+opencv2/legacy/legacy.hpp
+-
+opencv2/xfeatures2d.hpp
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/NoChess/opencv2/xfeatures2d.hpp
+

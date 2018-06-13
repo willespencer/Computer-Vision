@@ -1,0 +1,3 @@
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/Coin2/CMakeFiles/edit_cache.dir
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/Coin2/CMakeFiles/rebuild_cache.dir
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/Coin2/CMakeFiles/DisplayImage.dir

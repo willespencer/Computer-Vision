@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/csl.tjhsst.edu/students/2018/2018wspencer/Documents/Vision/Coin/DisplayImage.cpp
+stdio.h
+-
+opencv2/opencv.hpp
+-
+cmath
+-
+
